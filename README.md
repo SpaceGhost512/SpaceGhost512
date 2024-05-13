@@ -12,11 +12,8 @@ Hi, I'm Johnny and this is my IT & Cyber Security Portfolio. I am currently seek
   - Introduction into Cybersecurity https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-9OI365SZAC.png
 - <b>Cisco Networking Academy</b>
   - Getting Started with Cisco Packet Tracer
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>WireShark</b>
+  
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
