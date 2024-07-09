@@ -2,7 +2,7 @@
 
 # Portfolio
 
-Hi, I'm Johnny and this is my IT & Cyber Security Portfolio. I am currently seeking a challenging position that leverages my passion, and allows me to contribute to the dynamic field of IT & Cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for information Technology can make a meaningful impact.
+Hi, I'm Johnny and this is my IT & Cyber Security Portfolio. I am currently seeking a challenging position that leverages my passion, and allows me to contribute to the dynamic field of IT & Cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for Information Technology & Cybersecurity can make a meaningful impact.
 
 
 
