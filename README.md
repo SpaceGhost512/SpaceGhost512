@@ -13,7 +13,8 @@ Hi, I'm Johnny and this is my IT & Cyber Security Portfolio. I am currently seek
 - <b>Cisco Networking Academy</b>
   - Getting Started with Cisco Packet Tracer
 - <b>WireShark</b>
-  
+  <b>LetsDefend <b>
+  - SOC Fundamentals https://app.letsdefend.io/training/lessons/soc-fundamentals
 - <b>Hack the Box</b>
   - Intro to Network Traffic Analysis https://academy.hackthebox.com/module/81/section/773
   - Incident Handling Process https://academy.hackthebox.com/module/148/section/1362
