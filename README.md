@@ -10,6 +10,7 @@ Hi, I'm Johnny and this is my IT & Cyber Security Portfolio. I am currently seek
 
 - <b>TryHackMe </b>
   - Introduction into Cybersecurity https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-9OI365SZAC.png
+  - SOC Lvl1 https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LXYCGAEOFM.png
 - <b>Cisco Networking Academy</b>
   - Getting Started with Cisco Packet Tracer
 - <b>WireShark</b>
@@ -23,7 +24,7 @@ Hi, I'm Johnny and this is my IT & Cyber Security Portfolio. I am currently seek
 
 - Google Cybersecurity Professional https://coursera.org/share/e28adeefd697ae827be52d9e2e4a3df5
 - ISC² Certified in Cybersecurity https://www.credly.com/badges/8a1e6e58-0d7e-4df8-a5a2-4ecac66688d8/public_url
-
+- TryHackMe SOC Lvl1 https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LXYCGAEOFM.png
 
 <h2> 🤳 Connect with me:</h2>
 
