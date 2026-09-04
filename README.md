@@ -6,7 +6,7 @@ Hi, I'm Johnny and this is my IT & Cyber Security Portfolio. I am currently seek
 
 
 
-<h2>👨‍💻 IT & Cybersecurity Projects:</h2>
+<h2>👨‍💻 IT Projects:</h2>
 
 - <b>TryHackMe </b>
   - Introduction into Cybersecurity https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-9OI365SZAC.png
