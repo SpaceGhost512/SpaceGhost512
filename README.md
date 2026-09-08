@@ -1,8 +1,13 @@
-<h1>Hi, I'm Jonathan Johnson! </h1>
+<h1>👋 Hi, I'm Jonathan Johnson</h1>
 
-# Portfolio
+Network Technician • IT Professional  
+Open to IT roles in Networking, Cybersecurity, Systems Administration, and Infrastructure
 
-Hi, I'm Johnny and this is my IT & Cyber Security Portfolio. I am currently seeking a challenging position that leverages my passion, and allows me to contribute to the dynamic field of IT & Cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for Information Technology & Cybersecurity can make a meaningful impact.
+# 🚀 About Me
+
+I’m an IT professional with hands-on experience supporting campus networks, data center environments, and enterprise hardware deployments across 50+ properties at UT West Campus. My background blends network troubleshooting, switch configuration, wireless analysis, structured cabling, and cybersecurity fundamentals — giving me a strong foundation across multiple IT disciplines.
+
+I’m actively building projects that showcase real-world skills in network diagnostics, SOC analysis, vulnerability management, and sysadmin automation.
 
 
 
@@ -19,6 +24,34 @@ Hi, I'm Johnny and this is my IT & Cyber Security Portfolio. I am currently seek
 - <b>Hack the Box</b>
   - Intro to Network Traffic Analysis https://academy.hackthebox.com/module/81/section/773
   - Incident Handling Process https://academy.hackthebox.com/module/148/section/1362
+ 
+<h2>🛠 Technical Skills</h2>
+
+- Networking & Infrastructure
+  - Layer 1–2 Troubleshooting
+  - Switch Configuration (Cisco, Aruba, Dell)
+  - VLANs & Routing Fundamentals
+  - Wireless Networking & Site Surveys
+  - Structured Cabling & Racking/Stacking
+  - Network Monitoring Tools
+    - SolarWinds
+    - Aruba Central
+    - Ruckus
+
+- Cybersecurity
+  - SOC Level 1 Analysis
+  - Log Analysis & Detection Workflows
+  - Vulnerability Management (Qualys VMDR)
+  - Incident Response Fundamentals
+  - Security Best Practices
+
+- Systems & Tools
+  - Service Now
+  - Windows Server • Linux
+  - PowerShell • Bash
+  -  Wireshark
+  - Sysmon • Wazuh
+  - Dell & Cisco Enterprise Hardware
   
 <h2>✔ Certifications </h2>
 
